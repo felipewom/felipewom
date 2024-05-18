@@ -3,7 +3,7 @@
 <p>I'm senior software engineer at <strong><a href="https://nimble.la/">NimbleLA</a></strong>.<br>
 Converting coffee into code since 2012.<br>
 I'm passionate about <strong>distributed systems</strong>, <strong>serverless architectures</strong>, <strong>AI</strong>, and <strong>development</strong>.<br>
-I'm also a <strong>father</strong> and a <strong>husband</strong>.<br>
+I'm also a <strong>father</strong> of three beautiful children and a loving <strong>husband</strong>.👨👩[...(👦👧👶), ...(🐶🐶🐶🐱)].<br>
 I'm always looking for new challenges and opportunities, if you have something interesting, let's talk! <strong><a href="https://calendly.com/felipewom">Calendly</a></strong></p>
 <p>⚠️ <strong>I'm currently refactoring my README, so it may be a little messy.</strong></p>
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
