@@ -8,7 +8,7 @@ const md = require('markdown-it')({
 });
 const mdEmoji = require('markdown-it-emoji');
 const fs = require('fs');
-const axios = require('axios').default;
+const axios = require('axios');
 
 md.use(mdEmoji);
 
