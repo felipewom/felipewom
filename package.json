@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/felipewom/felipewom#readme",
   "dependencies": {
-    "axios": "1.6.0",
+    "axios": "^1.6.0",
     "markdown-it": "^14.1.0",
     "markdown-it-emoji": "^1.4.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
   }
 }
