@@ -31,8 +31,8 @@ jobs:
         run: |-
           git add .
           if [[ `git status --porcelain` ]]; then
-            git config --global user.email "readme-bot@felipewom.me"
-            git config --global user.name "ReadMe Bot"
+            git config --global user.email "felipewom@gmail.com"
+            git config --global user.name "felipewom@ReadMeBot"
             git commit -m ":sparkles: feat(README.md): Updated README"
             git push  
           else
