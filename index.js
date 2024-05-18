@@ -20,7 +20,7 @@ const introDescription = [
     `I'm senior software engineer at **${generateLink('NimbleLA', 'https://nimble.la/')}**.`,
     `Converting coffee into code since 2012.`,
     `I'm passionate about **distributed systems**, **serverless architectures**, **AI**, and **development**.`,
-    `I'm also a **father** and a **husband**.`,
+    `I'm also a **father** of three beautiful children and a loving **husband**.👨👩[...(👦👧👶), ...(🐶🐶🐶🐱)].`,
     `I'm always looking for new challenges and opportunities, if you have something interesting, let's talk! **${generateLink('Calendly', 'https://calendly.com/felipewom')}**`
 ];
 
