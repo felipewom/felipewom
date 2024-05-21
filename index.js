@@ -175,7 +175,22 @@ const visitors = `[![HitCount](https://hits.dwyl.com/felipewom/felipewom/felipew
 (async () => {
 
     // Get blog entries
-    const response = await axios.get(`${BLOG_HOST}/page-data/index/page-data.json`);
+    let response = {
+        data: {
+            result: {
+                data: {
+                    allMarkdownRemark: {
+                        edges: [],
+                    }
+                }
+            }
+        }
+    }
+    try{
+        response = await axios.get(`${BLOG_HOST}/page-data/index/page-data.json`);
+    } catch(e) {
+        console.error('Error while fetching blog data', e);
+    }
     const postData = response.data?.result?.data?.allMarkdownRemark?.edges || [];
     let posts = ``;
 
