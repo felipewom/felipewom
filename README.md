@@ -5,18 +5,18 @@ Converting coffee into code since 2012.<br>
 I'm passionate about <strong>distributed systems</strong>, <strong>serverless architectures</strong>, <strong>AI</strong>, and <strong>development</strong>.<br>
 I'm also a <strong>father</strong> of three beautiful children and a loving <strong>husband</strong>.👨👩[...(👦👧👶), ...(🐶🐶🐶🐱)].<br>
 I'm always looking for new challenges and opportunities, if you have something interesting, let's talk! <strong><a href="https://calendly.com/felipewom">Calendly</a></strong></p>
-<p>⚠️ <strong>I'm refactoring my README, which may be a little messy.</strong></p>
+<p>⚠️ <strong>I'm currently refactoring my README, so it may be a little messy.</strong></p>
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working at <a href="https://nimble.la/">NimbleLA</a> as Senior Software Engineer.</li>
+<li>🔭 I’m currently working on <a href="https://menny.ai">MennyAI</a>.</li>
 <li>🌱 I’m currently studying to get postgraduate degree in <strong>Distributed Systems Architecture</strong>.</li>
 <li>🧐 Learning about <strong>automate workflow with ai agents</strong>, <strong>serverless architectures</strong>, and a bit of <strong>training large models</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/felipewom">Github</a>.</li>
 <li>📝 I'm <del>starting</del> writing articles on <a href="https://felipewom.dev">my blog</a>.</li>
 <li>💬 Ping me to talk about <strong>distributed systems</strong>, <strong>serverless architectures</strong>, <strong>AI</strong>, <strong>development</strong>, and <strong>food</strong>.</li>
 <li>📙 Check out my <a href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQLy_tN9uZkERgAAAY-NRuu0-kzLr_IRkWgPKiHRuSEko6s7Cowbf3j3qjGiqrqSHczMGJBdhKBbLEeQK-cD3yQP1oa2hCTs7VCFCq7LYOMXsfupKW_yVyS4Rj_adChV-dTw0OT6W2YLDKZsr-cssQvxu4Z3if8BumfoygqNiSu7hEBxjVCuBze8r64qq5HWBJI-NQl6vQX3ZVEqsxgfd29uK1L-C4aauGCoMNxELeiBMWsufcgqnDxnBm9D-anV7giWemQoFHaOYZozIMem8GPaxnQhRkIuDfaBhCZxWgAOCJD7NSsHj7cwHK5ZHs8Anh226DIyodVTvXhaQix5dE3uK89JysTvfHXW6Bip75MAgwaJuNTOmC1EO7ooNJKtdkNIxtMLg-sG4gnuFv4NuDQUL8yImuI81XDFrftR2Y5C1Z8jigfC5btWjDSO8JvykE_3-FJH7WVYkOf2G_DRyvE967YkmxMhr4RbF6Sd2J1drorCmBMTF-4HppLVxKCOkwkuVXULoj8VPvhtWawFvTLl0P9zOaOj01f94ggfhTJVYKZz5r-UAwiOcuRWsEhA52LP&amp;x-ambry-um-filename=FelipeMoura-Resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: Whenever I find myself amid a chaotic day at home, I gently remind myself: I am not merely a father, but also a proficient programmer deftly managing a complex, real-life system! 😊</li>
+<li>🎉 Fun Fact: Whenever I find myself in the midst of a chaotic day at home, I gently remind myself: I am not merely a father, but also a proficient programmer deftly managing a complex, real-life system! 😊</li>
 </ul>
 <h2>✒️ Recent Posts (WIP)</h2>
 <details>
