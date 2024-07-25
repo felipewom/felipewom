@@ -9,9 +9,8 @@ I'm always looking for new challenges and opportunities, if you have something i
 <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://menny.ai">MennyAI</a>.</li>
 <li>🌱 I’m currently studying to get postgraduate degree in <strong>Distributed Systems Architecture</strong>.</li>
-<li>🧐 Learning about <strong>automate workflow with ai agents</strong>, <strong>serverless architectures</strong>, and a bit of <strong>training large models</strong>.</li>
+<li>🧐 Studying <strong>workflow automation with AI agents</strong>, <strong>AWS Cloud certificate</strong>, and a bit of latest tech trends.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/felipewom">Github</a>.</li>
 <li>📝 I'm <del>starting</del> writing articles on <a href="https://felipewom.dev">my blog</a>.</li>
 <li>💬 Ping me to talk about <strong>distributed systems</strong>, <strong>serverless architectures</strong>, <strong>AI</strong>, <strong>development</strong>, and <strong>food</strong>.</li>
